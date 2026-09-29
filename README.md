@@ -1,3 +1,14 @@
+# Overview
+
+Implementation of a texture synthesis algorithm using non-parametric sampling based on Efros and Leung's paper in 1999. Additionally, image quilting using this synthesis algorithm is implemented to reduce irregular boundaries between patches.
+
+## Example Output
+
+<p float="left">
+  <img src="images/output_14_11.png" width="49%" />
+  <img src="images/output_24_6.png" width="49%" />
+</p>
+
 ## Helper functions
 
 Helper functions: 
