@@ -151,7 +151,7 @@ test_gaussian_window()
 
 
     
-![png](output_7_0.png)
+![png](images/output_7_0.png)
     
 
 
@@ -252,7 +252,7 @@ test_neighborhood_matching()
 
 
     
-![png](output_10_1.png)
+![png](images/output_10_1.png)
     
 
 
@@ -361,73 +361,73 @@ for texture_name in [texture0, texture1]:
 
 
     
-![png](output_14_0.png)
+![png](images/output_14_0.png)
     
 
 
 
     
-![png](output_14_1.png)
+![png](images/output_14_1.png)
     
 
 
 
     
-![png](output_14_2.png)
+![png](images/output_14_2.png)
     
 
 
 
     
-![png](output_14_3.png)
+![png](images/output_14_3.png)
     
 
 
 
     
-![png](output_14_4.png)
+![png](images/output_14_4.png)
     
 
 
 
     
-![png](output_14_5.png)
+![png](images/output_14_5.png)
     
 
 
 
     
-![png](output_14_6.png)
+![png](images/output_14_6.png)
     
 
 
 
     
-![png](output_14_7.png)
+![png](images/output_14_7.png)
     
 
 
 
     
-![png](output_14_8.png)
+![png](images/output_14_8.png)
     
 
 
 
     
-![png](output_14_9.png)
+![png](images/output_14_9.png)
     
 
 
 
     
-![png](output_14_10.png)
+![png](images/output_14_10.png)
     
 
 
 
     
-![png](output_14_11.png)
+![png](images/output_14_11.png)
     
 
 
@@ -459,13 +459,13 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+![png](images/output_16_0.png)
     
 
 
 
     
-![png](output_16_1.png)
+![png](images/output_16_1.png)
     
 
 
@@ -495,13 +495,13 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![png](images/output_17_0.png)
     
 
 
 
     
-![png](output_17_1.png)
+![png](images/output_17_1.png)
     
 
 
@@ -531,13 +531,13 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![png](images/output_18_0.png)
     
 
 
 
     
-![png](output_18_1.png)
+![png](images/output_18_1.png)
     
 
 
@@ -604,7 +604,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](images/output_21_0.png)
     
 
 
@@ -719,42 +719,42 @@ plt.show()
 
 
     
-![png](output_24_0.png)
+![png](images/output_24_0.png)
     
 
 
 
     
-![png](output_24_1.png)
+![png](images/output_24_1.png)
     
 
 
 
     
-![png](output_24_2.png)
+![png](images/output_24_2.png)
     
 
 
 
     
-![png](output_24_3.png)
+![png](images/output_24_3.png)
     
 
 
 
     
-![png](output_24_4.png)
+![png](images/output_24_4.png)
     
 
 
 
     
-![png](output_24_5.png)
+![png](images/output_24_5.png)
     
 
 
 
     
-![png](output_24_6.png)
+![png](images/output_24_6.png)
     
 
